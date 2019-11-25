@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jadwaliah</string>
+    <string name="title_activity_home">Jadwaliah</string>
+    <string name="action_settings">Settings</string>
+    <string name="senin">
+        07.30      Strukdat         GIK C
+        09.20      Komdat           GIK A
+        15.30      Grafikom         MIPAT A
+    </string>
+</resources>
